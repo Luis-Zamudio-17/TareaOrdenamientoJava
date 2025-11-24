@@ -5,7 +5,7 @@ public class Menu
     {
         Scanner scanner = new Scanner(System.in);
         boolean valor = true;
-        while(valor ==3 true)
+        while(valor == true)
         {
             System.out.println("Bienvenido al ordenamiento Burbuja");
             System.out.println("ELige una de las siguientes opciones");
